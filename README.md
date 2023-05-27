@@ -14,7 +14,7 @@ Alison Janise Paico Quispe
 
 Para mayor referencia del proyecto, revise el GIF de navegabilidad.
 
-# [Aquí GIF navegabilidad OLI SHOP](https://drive.google.com/drive/folders/1U8BrNjzaNmsZK68k7NCvJJHVwOExzSRw?usp=sharing)
+# [Aquí GIF navegabilidad Oli Shop](https://drive.google.com/drive/folders/1i8284U_v68lfjh5kpLzpGTlGuVxqHSai?usp=sharing)
 
 ---
 
