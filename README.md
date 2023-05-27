@@ -45,10 +45,12 @@ Para arrancar el proyecto en un ambiente local. realice lo siguiente:
 - React-Router: Librería utilizada para administrar las diferentes rutas de las vistas.
 - Material-ui/core: Una biblioteca simple, personalizable y accesible de componentes de React.
 - Material-ui/icons: Se uso para agregar los iconos.
-- Sweetalert 2.1.2: Se uso para poder avisar los errores al completar el formulario y para la confirmacion de compra mostrando el número de pedido.
-- Firebase 9.8.2: Se uso para poder guardar de forma externa la lista de los productos y las ordenes de compra generadas.
-- Uiball/loaders 1.2.6:Se uso para agregar un loader interactivo para la carga de espera de los productos.
+- SweetAlert2: Permite crear alertas personalizadas para enviar notificaciones al usuario.
+- Firebase 9.8.2: Se uso para la una base de datos.
+- Fontawesome: Framework de iconos vectoriales y estilos css.
+- uiball/loaders 1.2.6:Se uso para agregar un loader interactivo para la carga de espera de los productos.
 - Git/Github: Sistema de control de versiones utilizado para consolidar piezas de código, así como desarrollo ágil de software y puntos de recuperación del mismo.
+- Netlify: Una poderosa plataforma sin servidor con un flujo de trabajo intuitivo basado en git. Implementaciones automatizadas, vistas previas para compartir y mucho más.
 
 ---
 ### Despliegue
