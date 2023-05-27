@@ -1,0 +1,46 @@
+.btn-opt {
+    background-color: #d3145a;
+    color: white;
+    border:#2196f3;
+    border-radius: 10px;
+    padding: 5px 27px;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+a:hover {
+    color: yellow;
+}
+
+.card {
+    width: 174px;
+    height: 358px;
+    margin: 10px;
+    padding: 1em 1em;
+    background-color: bisque;
+    font-size: 1rem;
+    font-weight: 500;
+    color: black;
+    border-radius: 15px;
+}
+
+.card-image {
+    width: 150px;
+    height: 130px;
+}
+
+.link {
+    text-decoration: none;
+    color: black;
+}
+
+@media (min-width: 1024px) {
+.card {
+    width: 319px;
+    height: 438px;
+}
+
+.card-image {
+width: 253px;
+height: 253px;
+}} 
