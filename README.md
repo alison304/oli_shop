@@ -55,7 +55,7 @@ Para arrancar el proyecto en un ambiente local. realice lo siguiente:
 ---
 ### Despliegue
 
-La web es responsive y el deploy fue realizado en Netlify, Para acceder , puede dar click [Aquí]
+El deploy fue realizado en Netlify, Para acceder , puede dar click [https://master--incomparable-fenglisu-2d0ff0.netlify.app/]
 
 
 
